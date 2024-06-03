@@ -1,0 +1,21 @@
+version: '3.4'
+
+services:
+  super-service:
+    image: super-service:latest
+    build:
+      context: .
+      dockerfile: src/Dockerfile
+    ports:
+      - "80:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+
+  super-service-tests:
+    image: super-service-tests:latest
+    build:
+      context: .
+      dockerfile: src/Dockerfile.test
+    depends_on:
+      - super-service
+    entrypoint: ["/bin/sh", "-c", "dotnet test --logger:trx; sleep 300"]
