@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Quanyi/Desktop/super-service/test/SuperService.UnitTests.csproj": {}
+    "/Users/Quanyi/Desktop/axi/super-service/test/SuperService.UnitTests.csproj": {}
   },
   "projects": {
-    "/Users/Quanyi/Desktop/super-service/src/SuperService.csproj": {
+    "/Users/Quanyi/Desktop/axi/super-service/src/SuperService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Quanyi/Desktop/super-service/src/SuperService.csproj",
+        "projectUniqueName": "/Users/Quanyi/Desktop/axi/super-service/src/SuperService.csproj",
         "projectName": "SuperService",
-        "projectPath": "/Users/Quanyi/Desktop/super-service/src/SuperService.csproj",
+        "projectPath": "/Users/Quanyi/Desktop/axi/super-service/src/SuperService.csproj",
         "packagesPath": "/Users/Quanyi/.nuget/packages/",
-        "outputPath": "/Users/Quanyi/Desktop/super-service/src/obj/",
+        "outputPath": "/Users/Quanyi/Desktop/axi/super-service/src/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Quanyi/.nuget/NuGet/NuGet.Config"
@@ -79,14 +79,14 @@
         }
       }
     },
-    "/Users/Quanyi/Desktop/super-service/test/SuperService.UnitTests.csproj": {
+    "/Users/Quanyi/Desktop/axi/super-service/test/SuperService.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Quanyi/Desktop/super-service/test/SuperService.UnitTests.csproj",
+        "projectUniqueName": "/Users/Quanyi/Desktop/axi/super-service/test/SuperService.UnitTests.csproj",
         "projectName": "SuperService.UnitTests",
-        "projectPath": "/Users/Quanyi/Desktop/super-service/test/SuperService.UnitTests.csproj",
+        "projectPath": "/Users/Quanyi/Desktop/axi/super-service/test/SuperService.UnitTests.csproj",
         "packagesPath": "/Users/Quanyi/.nuget/packages/",
-        "outputPath": "/Users/Quanyi/Desktop/super-service/test/obj/",
+        "outputPath": "/Users/Quanyi/Desktop/axi/super-service/test/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Quanyi/.nuget/NuGet/NuGet.Config"
@@ -101,8 +101,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/Quanyi/Desktop/super-service/src/SuperService.csproj": {
-                "projectPath": "/Users/Quanyi/Desktop/super-service/src/SuperService.csproj"
+              "/Users/Quanyi/Desktop/axi/super-service/src/SuperService.csproj": {
+                "projectPath": "/Users/Quanyi/Desktop/axi/super-service/src/SuperService.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q5iWV3+ZN+g=",
+  "dgSpecHash": "zhj+TJBwcVg=",
   "success": true,
-  "projectFilePath": "/Users/Quanyi/Desktop/super-service/src/SuperService.csproj",
+  "projectFilePath": "/Users/Quanyi/Desktop/axi/super-service/src/SuperService.csproj",
   "expectedPackageFiles": [
     "/Users/Quanyi/.nuget/packages/microsoft.aspnetcore.jsonpatch/3.1.0/microsoft.aspnetcore.jsonpatch.3.1.0.nupkg.sha512",
     "/Users/Quanyi/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/3.1.0/microsoft.aspnetcore.mvc.newtonsoftjson.3.1.0.nupkg.sha512",
